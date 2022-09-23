@@ -26,9 +26,9 @@ public class Rectangle {
         int perimeter = length+length+width+width;
         System.out.println("The perimeter is: "+perimeter);
     }
-    public void pen() {
-        int penLength = size / 5;
+//    public void pen() {
+//        int penLength = size / 5;
     }
 
 
-}
+
