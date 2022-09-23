@@ -14,8 +14,6 @@ public class CatRunner
         cat2.printCatInfo();
         cat2.introduce();
 
-        //cat and pen
-        System.out.println("I need a new pen. What are the dimensions? ");
 
 
 
